@@ -5,7 +5,7 @@ from keras.applications.densenet import DenseNet121, DenseNet169, DenseNet201
 from keras.applications.mobilenetv2 import MobileNetV2
 from keras.applications.vgg19 import VGG19
 from keras.applications.inception_v3 import InceptionV3
-from layers.attention import PAM, CAM
+from attention import PAM, CAM
 # use single gpu will result in poor performance
 #import os
 #os.environ["CUDA_VISIBLE_DEVICES"]="0"
