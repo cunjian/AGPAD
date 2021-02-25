@@ -1,5 +1,9 @@
 # AGPAD
 An Explainable Attention-Guided Iris Presentation Attack Detector
+
+# Training:
+This code is used to train a binary classifier for iris presentation attack detection.
+
 ## Citations
 
 If you find this code useful, please cite the following. 
